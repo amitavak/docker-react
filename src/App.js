@@ -18,6 +18,9 @@ function App() {
         >
           Learn and Explore React
         </a>
+        <p>
+          I was changed in feature branch
+        </p>
       </header>
     </div>
   );
